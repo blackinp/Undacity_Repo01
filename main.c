@@ -1,2 +1,3 @@
-first line
-master test01
+/* first line
+ * master test01
+ */
